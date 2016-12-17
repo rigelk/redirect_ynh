@@ -1,6 +1,6 @@
 {
-    "name": "Redirect",
-    "id": "redirect",
+    "name": "Ajanti",
+    "id": "ajanti",
     "packaging_format": 1,
     "requirements": {
         "yunohost": ">= 2.4"
